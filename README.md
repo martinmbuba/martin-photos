@@ -16,4 +16,4 @@ html and css styles only
 please contact at email: martinmbuba4@gmail.com
 call 0701274732
 ### License
-website control act kenya
+Website Control Act Kenya
